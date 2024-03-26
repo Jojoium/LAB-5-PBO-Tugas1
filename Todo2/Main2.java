@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         // Buat Array
         ArrayList<String> eskrim = new ArrayList<>();
